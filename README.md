@@ -10,8 +10,6 @@ Change the values in the my_magic_8_ball_answers list found in app/main.py to cu
 
 ## The guide below illustrates how you can deploy this simple web app to Phemeral in a few minutes.
 
-**More docs can be found at: <a href="https://phemeral.dev/docs" target="_blank">Phemeral Docs</a>**
-
 
 ## 1\. Create an Account
 Sign up at [phemeral.dev](https://phemeral.dev/pricing). When your account is created, Phemeral automatically provisions an organization with a default project called **Launchpad** and three default environments: **Production**, **Staging**, and **Development**.
@@ -33,3 +31,5 @@ Push a commit to your mapped branch. Phemeral automatically:
 * Assigns a live URL on `.phemeral.app`
 
 View the build status and logs from the deployment page in your dashboard.
+
+**More docs can be found at: <a href="https://phemeral.dev/docs" target="_blank">Phemeral Docs</a>**
