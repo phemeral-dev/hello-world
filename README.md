@@ -1,7 +1,5 @@
 # hello-world
-Get started with deploying Python web apps with this simple app
-
-This guide illustrates how you can deploy this hello-world app to Phemeral.
+This guide illustrates how you can deploy this simple web app to Phemeral in 5 minutes.
 
 **More docs can be found at: https://phemeral.dev/docs**
 
