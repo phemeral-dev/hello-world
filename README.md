@@ -1,7 +1,7 @@
 # hello-world
 This guide illustrates how you can deploy this simple web app to Phemeral in 5 minutes.
 
-**More docs can be found at: https://phemeral.dev/docs**
+**More docs can be found at: <a href="https://phemeral.dev/docs" target="_blank">Phemeral Docs</a>**
 
 
 ## 1\. Create an Account
