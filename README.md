@@ -6,7 +6,7 @@
 
 "/my-magic-eight-ball": returns one of the responses from your own magic eight ball! (with some silly entries by default)
 
-Change the values in the my_magic_eight_ball_responses list found in app/main.py to customize the magic eight ball responses!
+Change the values in the my_magic_8_ball_answers list found in app/main.py to customize the magic eight ball responses!
 
 ## The guide below illustrates how you can deploy this simple web app to Phemeral in a few minutes.
 
