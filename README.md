@@ -10,7 +10,7 @@ Sign up at [phemeral.dev](https://phemeral.dev/pricing). When your account is cr
 
 2\. Connect Your GitHub Account
 
-1. Navigate to [User Settings](/dashboard/user-settings).
+1. Navigate to **User Settings**.
 2. Click **Connect** in the GitHub section.
 3. Authorize the Phemeral GitHub App on your GitHub account and grant it access to the repositories you want to deploy.
 
@@ -28,10 +28,4 @@ Push a commit to your mapped branch. Phemeral automatically:
 * Assigns a live URL on `.phemeral.app`
 
 View the build status and logs from the deployment page in your dashboard.
-
-Next Steps
-
-* [Connect GitHub](/docs/getting-started/connect-github) — Detailed walkthrough of the GitHub setup
-* [Your First Deployment](/docs/getting-started/first-deployment) — Step-by-step tutorial for deploying a project
-* [Concepts](/docs/concepts) — Learn how Projects, Environments, and Deployments work together
 
